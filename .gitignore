@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+out/production/Vlada-AT/.gitignore
+out/production/Vlada-AT/LICENSE
+out/production/Vlada-AT/README.md
+out/production/Vlada-AT/.idea/.gitignore
+out/production/Vlada-AT/.idea/misc.xml
+out/production/Vlada-AT/.idea/modules.xml
+out/production/Vlada-AT/.idea/vcs.xml
+out/production/Vlada-AT/.idea/Vlada-AT.iml
